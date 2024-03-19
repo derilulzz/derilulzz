@@ -1,0 +1,6 @@
+- Hi, I’m Deri LULZZ
+- I use game maker studio 2 and godot with gdscript
+- Im trying to create games
+- You can contact me in deniapk0078@gmail.com
+- Pronouns: he, him
+- Fun fact: my code is a mess
